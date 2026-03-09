@@ -9,7 +9,7 @@
 
 **The only MT5 indicator combining Anchored Volume Profile, True Delta, Heatmap, HVN/LVN and an exclusive real-time Confidence Score.**
 
-[🔗 Buy on MQL5 — $39.99](https://www.mql5.com/en/market/product/167856) &nbsp;|&nbsp; [🌐 Full Landing Page]([[(https://saidanighiles772-design.github.io/digitopia-vp2/)]]/)) &nbsp;|&nbsp; [📊 Free Demo Available](https://www.mql5.com/en/market/product/167856)
+[🔗 Buy on MQL5 — $39.99](https://www.mql5.com/en/market/product/167856) &nbsp;|&nbsp; [🌐 Full Landing Page](https://saidanighiles772-design.github.io/digitopia-vp2/) &nbsp;|&nbsp; [📊 Free Demo Available](https://www.mql5.com/en/market/product/167856)
 
 </div>
 
